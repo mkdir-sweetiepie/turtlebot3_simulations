@@ -63,5 +63,10 @@
       </ode>
     </physics>
 
+    <!-- 당신이 만든 모델 -->
+    <include>
+      <uri>model://robot_world</uri>
+    </include>
+
   </world>
 </sdf>
